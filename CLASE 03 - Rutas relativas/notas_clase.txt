@@ -1,0 +1,5 @@
+
+Validador de documento HTML - web: validator.w3.org
+Formatear codigo HTML/Otros - web: freeformatter,com
+
+Ejercicio de parcial - Copiar desde un articulo (captura) el codigo en HTML
