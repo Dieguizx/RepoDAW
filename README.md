@@ -3,3 +3,4 @@
 ## Material:
 - Clase 01 - Actividad
 - Clase 02 - Ejercitación HTML5
+- Clase 03 - Rutas relativas
