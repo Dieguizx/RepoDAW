@@ -1,0 +1,45 @@
+h1 {
+    text-decoration: underline;
+    background-color: grey;
+    width: fit-content;
+}
+
+.blue {
+    font-style: italic;
+    color: blue;
+}
+
+.fondo-verde {
+    background-color: rgb(14, 241, 14);
+}
+
+.text-rojo {
+    font-weight: bold; 
+    color: red;
+}
+
+p {
+    max-width: 600px;
+}
+
+.titulo-lista {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.text-amarillo {
+    font-style: italic;
+    background-color: yellow;
+}
+
+.text-celeste {
+    background-color: rgb(0, 217, 255);
+}
+
+.tachado {
+    text-decoration: line-through;
+}
+
+li {
+    max-width: 600px;
+}
