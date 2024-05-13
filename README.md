@@ -8,4 +8,4 @@
 - Clase 04 - Actividad
 - Clase 04 - TP Asincrónico
 - Clase 05 - Actividad Asincrónica
-- CLASE 06 - Actividad
+- Clase 06 - Actividad
