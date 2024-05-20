@@ -1,0 +1,36 @@
+#encabezado {
+    padding: 40px;
+    border-bottom: 12px solid orange !important;
+    /* margin: 30px; */
+    width: 931px;
+    display: flex;
+    /* align-content: flex-start; */
+    flex-direction: column;
+    /* align-items: center; */
+}
+
+.date-num {
+    height: 50px;
+    border-bottom: 5px solid orange !important;
+    border-top: 5px solid orange !important;
+    /* border-color: red; */
+    border-top: 5px;
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center;
+}
+
+.title {
+    justify-items: center;
+    display: flex;
+    /* font-family: impact; */
+    font-size: 150px;
+    align-items: center;
+    justify-content: center;
+}
+
+.subtitle {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}

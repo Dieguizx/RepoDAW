@@ -1,0 +1,21 @@
+@import url('./encabezado.css');
+@import url('./columnas.css');
+
+.body {
+    width:931px,
+}
+
+.colum-der {
+    padding: 25px;
+    width: 531px;
+}
+
+.colum-der .button {
+    background-color: orange;
+    border: none;
+    padding: 10px;
+}
+
+
+
+
