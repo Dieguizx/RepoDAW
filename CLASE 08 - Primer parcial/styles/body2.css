@@ -1,0 +1,5 @@
+.body-2 {
+    border-bottom: 5px solid rgb(7, 105, 129) !important;
+    display: flex;
+    padding: 20px 0px 20px 0px;
+}

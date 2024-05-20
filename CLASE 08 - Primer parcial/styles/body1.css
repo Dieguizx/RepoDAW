@@ -1,0 +1,32 @@
+.body-1 {
+    border-bottom: 5px solid rgb(7, 105, 129) !important;
+    display: flex;
+    justify-content: space-between;
+}
+
+.columna-izq h1 {
+    background-color: #23313d;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.columna-izq .articulo {
+    display: flex;
+}
+
+.columna-izq .contenedor {
+    display: flex;
+    flex-direction: column;
+}
+
+.hipervinculos {
+    width: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.hipervinculos a {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,47 @@
+@import url('./body1.css');
+@import url('./body2.css');
+
+.encabezado {
+    border-bottom: 5px solid rgb(7, 105, 129) !important;
+}
+
+.encabezado img {
+    width: 130px;
+}
+
+.encabezado .titulo {
+    align-items: center;
+    color: rgb(7, 105, 129);
+    display: flex;
+    justify-content: space-between;
+    font-size: 117px;
+}
+
+.encabezado .date-precio {
+    margin-top: 20px;
+    padding: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(7, 105, 129);
+}
+
+.encabezado .subtitulo {
+    font-weight: bold;
+    color: #23313d;
+    font-size: 40px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    font-size: 30px;
+    display: flex;
+    color: white;
+    padding: 12px;
+    background-color: rgb(7, 105, 129);
+    flex-wrap: nowrap;
+    justify-content: center;
+}
