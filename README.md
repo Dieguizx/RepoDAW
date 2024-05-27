@@ -9,3 +9,4 @@
 - Clase 04 - TP Asincrónico
 - Clase 05 - Actividad Asincrónica
 - Clase 06 - Actividad
+- Clase 07 - Actividad pre-parcial
