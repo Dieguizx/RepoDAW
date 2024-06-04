@@ -11,3 +11,4 @@
 - Clase 06 - Actividad
 - Clase 07 - Actividad pre-parcial
 - Clase 07' - Primer parcial
+- Clase 09 - Actividad
