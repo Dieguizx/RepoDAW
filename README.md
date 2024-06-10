@@ -11,5 +11,5 @@
 - Clase 06 - Actividad
 - Clase 07 - Actividad pre-parcial
 - Clase 07' - Primer parcial
-- CLASE 08 - Actividad asincrónica
+- Clase 08 - Actividad asincrónica
 - Clase 09 - Actividad
