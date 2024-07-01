@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Energía Cinética</title>
+    <link rel="stylesheet" href="static/css/styles.css">
+</head>
+<body>
+    <h1>Calculadora de Energía Cinética</h1>
+    <label for="energiaCinetica">Energía Cinética (Joules):</label>
+    <input type="text" id="energiaCinetica" />
+
+    <label for="masa">Masa (kg):</label>
+    <input type="text" id="masa" />
+
+    <label for="velocidad">Velocidad (m/s):</label>
+    <input type="text" id="velocidad" />
+
+    <button onclick="calcular()">Calcular</button>
+    <button onclick="limpiar()">Limpiar</button>
+
+    <p id="resultado"></p>
+    <p id="error" class="error"></p>
+
+    <script src="static/js/script.js"></script>
+</body>
+</html>

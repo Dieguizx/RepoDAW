@@ -14,3 +14,4 @@
 - Clase 08 - Actividad asincrónica
 - Clase 09 - Actividad
 - Clase 14 - Práctica pre-2do-parcial
+- Clase 15 - Segundo parcial
